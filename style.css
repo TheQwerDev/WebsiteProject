@@ -100,12 +100,21 @@ p {
 .imagine {
     display: block;
     position: relative;
-    margin-left: auto;
+    margin-left: 5px;
     margin-right: auto;
     padding: 10px;
     width: auto;
     height: auto;
+}
 
+.imagine2 {
+    display: block;
+    position: relative;
+    margin-left: auto;
+    margin-right: 5px;
+    padding: 10px;
+    width: auto;
+    height: auto;
 }
 
 .spider-container {
