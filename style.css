@@ -1,5 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:wght@300;400&display=swap');
+
 body {
+    background-image: url("./resources/bg.jpg");
     background-color: #d3d3d3;
+    background-repeat: repeat;
+    font-family: "Work Sans", sans-serif;
 }
 
 img {
@@ -52,7 +57,9 @@ img {
 .header {
     overflow: hidden;
     background-color: #f1f1f1;
+    border-radius: 12px;
     padding: 20px 10px;
+    margin-bottom: 40px;
 }
 
     /* Style the header links */
